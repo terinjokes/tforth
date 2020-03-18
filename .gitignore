@@ -1,0 +1,10 @@
+" redo/do files
+/.redo
+/.do_built
+/.do_built.dir/
+
+" build tmp files
+/src/.tforth.run.tmp/
+
+" built fasm
+/third/fasm/fasm
